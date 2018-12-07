@@ -1,0 +1,12 @@
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\bin\Debug\netstandard2.0\ToDoList.Repositories.deps.json
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\bin\Debug\netstandard2.0\ToDoList.Repositories.dll
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\bin\Debug\netstandard2.0\ToDoList.Repositories.pdb
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\bin\Debug\netstandard2.0\ToDoList.Domain.dll
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\bin\Debug\netstandard2.0\ToDoList.Domain.pdb
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.csprojAssemblyReference.cache
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.AssemblyInfoInputs.cache
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.AssemblyInfo.cs
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.csproj.CopyComplete
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.dll
+C:\Users\nicho\LPCG2\LPCG2\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.pdb
