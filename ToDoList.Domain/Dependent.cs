@@ -7,7 +7,7 @@ namespace ToDoList.Domain
         public int id { get; set; }
         [Required(ErrorMessage="Defina um associado.",AllowEmptyStrings=false)]
         public int associatedid { get; set; }
-        [Required(ErrorMessage="Defina um parentesco com o associado.",AllowEmptyStrings=false)]
+        [Required(ErrorMessage="Defina um parentesco para o associado.",AllowEmptyStrings=false)]
         public int kinshipid { get; set; }
         public string name { get; set; }      
         public string birthDate { get; set; }

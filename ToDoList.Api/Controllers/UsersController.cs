@@ -41,19 +41,7 @@ namespace ToDoList.API.Controllers
 
             return usersDTO;
 
-            // var users = this.repository.GetAll();
-            // List<UserDTO> usersDTo = new List<UserDTO>();    
-            // foreach (var item in users)
-            // {
-            //     var objDTO = new UserDTO
-            //     {
-            //          id = item.id,
-            //          name = item.name
-            //     };
-            //     usersDTo.Add(objDTO);
-            // }
-
-            // return usersDTo;
+      
         }
 
         // GET api/values/5
