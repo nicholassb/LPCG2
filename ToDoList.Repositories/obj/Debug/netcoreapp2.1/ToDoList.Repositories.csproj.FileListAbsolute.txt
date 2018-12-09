@@ -1,0 +1,36 @@
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.deps.json
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.pdb
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csprojAssemblyReference.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.AssemblyInfoInputs.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.AssemblyInfo.cs
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csproj.CopyComplete
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.pdb
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.deps.json
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.dll
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.pdb
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csprojAssemblyReference.cache
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.AssemblyInfoInputs.cache
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.AssemblyInfo.cs
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csproj.CopyComplete
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.dll
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.pdb
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.deps.json
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.dll
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Repositories.pdb
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\bin\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csprojAssemblyReference.cache
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.AssemblyInfoInputs.cache
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.AssemblyInfo.cs
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.csproj.CopyComplete
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.dll
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Repositories\obj\Debug\netcoreapp2.1\ToDoList.Repositories.pdb

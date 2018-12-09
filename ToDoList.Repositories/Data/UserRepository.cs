@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ToDoList.Domain;
 using ToDoList.Repositories.Interfaces;
 
-namespace ToDoList.Repositories
+namespace ToDoList.Repositories.Data
 {
     public class UserRepository : IUserRepository
     {
@@ -46,6 +47,16 @@ namespace ToDoList.Repositories
                     .User
                     .SingleOrDefault(i => i.name == user.name && 
                                 i.password == user.password);
+        }
+
+        public Task<List<User>> GetAllAsync()
+        {
+            return dataContext.User.ToListAsync();
+        }
+
+         public Task<User> GetByIdAsync(int id)
+        {
+            return dataContext.User.SingleOrDefaultAsync(x => x.id == id);
         }
     }
 }

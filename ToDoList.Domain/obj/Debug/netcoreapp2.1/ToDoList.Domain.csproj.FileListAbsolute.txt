@@ -1,0 +1,27 @@
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.deps.json
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.csprojAssemblyReference.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.AssemblyInfo.cs
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.deps.json
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.csprojAssemblyReference.cache
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.AssemblyInfo.cs
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\Notebook Dell\Desktop\TrabalhoG2_LPC\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.deps.json
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\bin\Debug\netcoreapp2.1\ToDoList.Domain.pdb
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.csprojAssemblyReference.cache
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.AssemblyInfo.cs
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\AssociadosApi\WebApi_Associados\ToDoList.Domain\obj\Debug\netcoreapp2.1\ToDoList.Domain.pdb

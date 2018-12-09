@@ -1,0 +1,12 @@
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.0\ToDoList.Repositories.deps.json
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.0\ToDoList.Repositories.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.0\ToDoList.Repositories.pdb
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.0\ToDoList.Domain.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\bin\Debug\netcoreapp2.0\ToDoList.Domain.pdb
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.csprojAssemblyReference.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.AssemblyInfoInputs.cache
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.AssemblyInfo.cs
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.csproj.CopyComplete
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.dll
+C:\Users\PC-Gamer\Desktop\LPC2018-Junior\ToDoList.Repositories\obj\Debug\netcoreapp2.0\ToDoList.Repositories.pdb
