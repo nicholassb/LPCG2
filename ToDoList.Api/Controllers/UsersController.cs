@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using ToDoList.API.DTOs;
+using ToDoList.Api.DTOs;
 using ToDoList.Domain;
 using ToDoList.Repositories.Interfaces;
 using Microsoft.IdentityModel.Tokens;
@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using System.Linq;
 using ToDoList.Repositories;
 
-namespace ToDoList.API.Controllers
+namespace ToDoList.Api.Controllers
 {   
     
     [Route("api/[controller]")]

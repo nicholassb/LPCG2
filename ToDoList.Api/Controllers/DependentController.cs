@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using ToDoList.API.DTOs;
+using ToDoList.Api.DTOs;
 using ToDoList.Domain;
 using ToDoList.Repositories.Interfaces;
 

@@ -1,11 +1,12 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using ToDoList.API.DTOs;
+using ToDoList.Api.DTOs;
 using ToDoList.Domain;
 using ToDoList.Repositories.Interfaces;
 
-namespace ToDoList.API.Controllers
+
+namespace ToDoList.Api.Controllers
 {
     [Route("api/[controller]")]
     public class AssociatedController : ControllerBase
